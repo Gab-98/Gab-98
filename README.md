@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning full-stack developement.
-- 💻 Always learning and exploring new technologies!
-- 🚀 Passionate about coding and creating open-source tools.-
+- 💻 Always exploring new technologies!
+- 🚀 Passionate about coding and open-source tools.
 - 🍡 Fun fact: When I'm not coding, you'll find me watching anime 🎌 or playing games 🎮.
 - ✨ Check out some of my work in the pinned section below!
