@@ -5,7 +5,7 @@
 
 ― *Carl Sagan, Cosmos*
 
-<p align="center"><img style="border-radius: 50px" src="https://i.ibb.co/v1jPy7c/nene-coding.jpg" width=30%> <img src="https://i.ibb.co/41bLYxV/kanna-tohru-python.jpg" width=30%></p>
+<p align="center"><img style="border-radius: 50px" src="https://i.ibb.co/v1jPy7c/nene-coding.jpg" width=40%> <img src="https://i.ibb.co/41bLYxV/kanna-tohru-python.jpg" width=40%></p>
 
 🌱 I’m currently learning full-stack developement.</br>
 💻 Always exploring new technologies!</br>
