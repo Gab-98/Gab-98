@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning full-stack developement.
-- 🛠  My tools of choice are: JavaScript, Python, HTML, CSS and tea 🍵.
 - 💻 Always learning and exploring new technologies!
 - 🚀 Passionate about coding and creating open-source tools.-
 - 🍡 Fun fact: When I'm not coding, you'll find me watching anime 🎌 or playing games 🎮.
