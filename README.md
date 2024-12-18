@@ -1,22 +1,14 @@
-## Hi there, I'm Gabriel 👋
+<p align="center"><img src="https://i.ibb.co/Dkr23Gy/anime-girl-eyes.jpg" width=40%></p>
+<h1 align="center">Hi there, I'm Gabriel 👋</h1>
 
-<!--
-**Gab-98/Gab-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>*“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.”*</br>
 
-Here are some ideas to get you started:
+― *Carl Sagan, Cosmos*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img style="border-radius: 50px" src="https://i.ibb.co/v1jPy7c/nene-coding.jpg" width=30%> <img src="https://i.ibb.co/41bLYxV/kanna-tohru-python.jpg" width=30%></p>
 
-- 🌱 I’m currently learning full-stack developement.
-- 💻 Always exploring new technologies!
-- 🚀 Passionate about coding and open-source tools.
-- 🍡 Fun fact: When I'm not coding, you'll find me watching anime 🎌 or playing games 🎮.
-- ✨ Check out some of my work in the pinned section below!
+🌱 I’m currently learning full-stack developement.</br>
+💻 Always exploring new technologies!</br>
+🚀 Passionate about coding and open-source tools.</br>
+🍡 Fun fact: When I'm not coding, you'll find me watching anime 🎌 or playing games 🎮.</br>
+✨ Check out some of my work in the pinned section below!
