@@ -10,5 +10,5 @@
 🌱 I’m currently learning full-stack developement.</br>
 💻 Always exploring new technologies!</br>
 🚀 Passionate about coding and open-source tools.</br>
-🍡 When I'm not coding, I'll be watching anime 🎌, playing games 🎮 or reading a book 📖.</br>
+🍡 I spend my free time watching anime 🎌, playing games 🎮 or reading a book 📖.</br>
 ✨ Check out some of my work in the pinned section below!
