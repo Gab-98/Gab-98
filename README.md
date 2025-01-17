@@ -7,7 +7,7 @@
 
 <p align="center"><img style="border-radius: 50px" src="https://i.ibb.co/v1jPy7c/nene-coding.jpg" width=40%> <img src="https://i.ibb.co/41bLYxV/kanna-tohru-python.jpg" width=40%></p>
 
-💻 Always exploring new technologies!</br>
-🚀 Passionate about coding and open-source tools.</br>
-🍡 I spend my free time watching anime 🎌, playing games 🎮 or reading a book 📖.</br>
+💻 Always interested in new technologies!</br>
+🚀 Passionate about programming and open-source tools.</br>
+🍡 I spend my free time watching anime 🎌, playing games 🎮 or reading books 📖.</br>
 ✨ Check out some of my work in the pinned section below!
